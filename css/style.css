@@ -533,6 +533,10 @@ textarea {
     grid-template-columns: repeat(1, 1fr);
   }
 
+  .services-3 {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
   .contact {
     flex-direction: column;
   }
@@ -565,6 +569,10 @@ textarea {
   }
 
   .services-2 {
+    grid-template-columns: 1fr;
+  }
+
+  .services-3 {
     grid-template-columns: 1fr;
   }
 
